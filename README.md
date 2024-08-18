@@ -1,5 +1,3 @@
-### 简体中文（当前页面/U R HERE）
-##### 如果你是懒人，可以直接在 [Release](https://github.com/feiyangjun-1/ns-sigpatches/releases/latest) 中下载已经制作好的 sigpatches。
 #### 注意：按照此教程最后生成的 sigpatches 只适用于你选择的的系统固件版本以及大气层版本，不向上或向下兼容。
 # 你都得准备点啥？
 * 最新版 [IPS Patch Creator](https://gbatemp.net/download/ips-patch-creator-1-5-8.38703/)
@@ -22,4 +20,3 @@
    * 若提示有相同文件，选择覆盖即可。
 2. 开玩！
 
-最后，有问题欢迎在 issues 中提问！如果你觉得有些地方的语言有些晦涩，可以通过 pull requests 申请修改！
